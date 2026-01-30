@@ -1,0 +1,57 @@
+references:
+  - "https://en.wikipedia.org/wiki/Suzuki_Alto"
+
+generations:
+  - name: "First Generation"
+    start_year: 1979
+    end_year: 1984
+    description: "The first generation (SS30V/40V), introduced in May 1979, is a three-door cargo version of the Fronte passenger car. Initially equipped with a T5B two-stroke three-cylinder engine, it was later available with the F5A four-stroke engine from January 1981. The model was exported as the Suzuki Hatch in Australia and as the Alto/Fronte in other markets. Production ended in 1984."
+    platform_code: "SS30/SS40"
+
+  - name: "Second Generation"
+    start_year: 1984
+    end_year: 1994
+    description: "The second generation (CA71) was introduced in September 1984, featuring design elements from the GM M-platform. It continued with the F5A engine but added turbocharged and multi-valve variants. The Alto Works performance version was introduced in February 1987, being the first kei car to reach the legal power limit. A five-door body became available in October 1985, and a facelift arrived in July 1986 with new wraparound headlights and updated suspension. Production continued until 1994, though it remained in production in Pakistan as the Mehran until 2019."
+    platform_code: "CA/CB/CC"
+
+  - name: "Third Generation"
+    start_year: 1988
+    end_year: 1994
+    description: "The third generation (CL/CM11) replaced the CA71 in September 1988, featuring angular styling with an unusual glazed C-pillar on the five-door. It offered a unique sliding door version called 'Slide Slim'. When kei car standards changed in 1990, the engine was upgraded to the F6A and the model codes changed to CL/CM/CN/CP21. The Fronte name was discontinued in October 1989, making the Alto the sole nameplate. This generation was successful at home but not widely exported."
+    platform_code: "CL/CM/CN/CP/CR/CS"
+
+  - name: "Fourth Generation"
+    start_year: 1994
+    end_year: 1998
+    description: "The fourth-generation Alto (HA11) appeared in November 1994, marked by simplicity as Suzuki returned to making a more basic car. The Slide Slim and column-shift Regina models were discontinued to cut costs. The Wagon R took over much of the Alto's market share at the higher end. New K6A engines joined the F6A, with the Works RS/Z model receiving the high-performance version. A facelift in April 1997 added side impact protection and new front design."
+    platform_code: "HA11/HA21"
+
+  - name: "Fifth Generation"
+    start_year: 1998
+    end_year: 2004
+    description: "The fifth-generation Alto (HA12/22) was introduced in October 1998 with more rounded styling. Weight was minimized and four-wheel drive models shared the same bottom plate as front-wheel drive versions. A thorough facelift in December 2000 (becoming HA23) brought updated styling and naturally aspirated K6A engines. The Works models were discontinued. This generation entered production in India as the Maruti Suzuki Alto and was exported to Europe until 2009."
+    platform_code: "HA12/22/HA23"
+
+  - name: "Sixth Generation"
+    start_year: 2004
+    end_year: 2009
+    description: "The sixth-generation Alto (HA24) was introduced in September 2004 with a distinctive front design featuring curved bonnet and headlamps. The Alto was repositioned as a less costly model, with more powerful engines moving to the Cervo and Alto Lapin. No three-door variant was offered, returning the five-door Van for the first time since 1989. The model was also sold as the Mazda Carol and Nissan Pino in Japan. Production continued until December 2009."
+    platform_code: "HA24"
+
+  - name: "Seventh Generation"
+    start_year: 2009
+    end_year: 2014
+    description: "The seventh-generation Alto was introduced at the 2009 Tokyo Motor Show. In Japan, it featured the K6A engine with manual, automatic, or CVT transmission options. An Eco variant launched in 2011 featured the new R06A engine with idling stop function, achieving excellent fuel economy. Internationally, a different model was sold as the Maruti Suzuki A-Star (also known as Suzuki Celerio), manufactured exclusively in India. In 2012, the Alto 800 was introduced as a low-cost model for India and export markets."
+    platform_code: "HA25/HA35"
+
+  - name: "Eighth Generation"
+    start_year: 2014
+    end_year: 2021
+    description: "The eighth-generation Alto was introduced in Japan in December 2014 as the first Suzuki built on the lightweight HEARTECT platform. It features torsion beam rear suspension (except AWD models) and improved fuel efficiency with 'Suzuki Green Technology'. Sporty variants included the Turbo RS (2015) and Works (2015). The VP commercial van was discontinued in August 2021, marking the end of the Alto commercial vehicle. In Pakistan, local manufacturing began in 2019 with three variants (VX, VXR, VXL)."
+    platform_code: "HA36S/V"
+
+  - name: "Ninth Generation"
+    start_year: 2021
+    end_year: null
+    description: "The ninth-generation Alto was introduced in Japan in December 2021, continuing on the HEARTECT platform with the R06A engine for conventional models. A new R06D engine with mild hybrid system was added for hybrid variants. CVT is the only transmission option, making this the first Alto without a manual gearbox. The Auto Gear Shift (AGS) automated manual was also discontinued. Styling by Alessandro Di Gregorio features softer, friendlier lines with a more vertical windscreen for increased interior space. Four trim levels are available: A and L for conventional, S and X for hybrid."
+    platform_code: "HA37/HA97"
